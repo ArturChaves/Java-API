@@ -1,4 +1,6 @@
+--#if postgresql
 CREATE EXTENSION IF NOT EXISTS "pgcrypto";
+--#endif
 
 
 CREATE TABLE event (

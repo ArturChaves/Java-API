@@ -6,9 +6,9 @@ Recomendo para quem quiser arriscar aprender assistir o video da Fernanda Kipper
 link do video -> https://youtu.be/d0KaNzAMVO4
 
 Tecnologias Utilizadas
-Java: Linguagem de programação principal.
-Spring Boot: Framework para criação de aplicações Java.
-Flyway: Ferramenta para versionamento e migração do banco de dados.
-Maven: Gerenciador de dependências e automação de build.
-H2: Banco de dados em memória para desenvolvimento e testes.
-Lombok: Biblioteca que simplifica a escrita de código Java.
+- Java: Linguagem de programação principal.
+- Spring Boot: Framework para criação de aplicações Java.
+- Flyway: Ferramenta para versionamento e migração do banco de dados.
+- Maven: Gerenciador de dependências e automação de build.
+- H2: Banco de dados em memória para desenvolvimento e testes.
+- Lombok: Biblioteca que simplifica a escrita de código Java.
